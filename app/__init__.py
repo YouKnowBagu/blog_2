@@ -1,2 +1,2 @@
 
-"""App initialization file.  Instantiates app.
+"""App initialization file.  Instantiates app."""
